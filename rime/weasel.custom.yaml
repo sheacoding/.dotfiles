@@ -1,0 +1,56 @@
+﻿patch:
+  # 托盘图标显示...
+  "style/display_tray_icon": true
+
+  # 候選窗横向顯示...
+  #  "style/horizontal": true
+
+  # 嵌入式編輯模式...
+  #  "style/inline_preedit": true
+
+  # 顯示字體...
+  "style/font_face": "YaHei Consolas Hybrid"
+  #YaHei Consolas Hybrid
+  #Source Han Sans Normal
+
+  # 顯示字號...
+  "style/font_point": 17
+
+  # 應用程序的初始轉換狀態...
+  app_options/bridge.exe: {}
+  #    ascii_mode: true
+  app_options/photoshop.exe:
+    ascii_mode: true
+  app_options/illustrator.exe:
+    ascii_mode: true
+  app_options/flysee.exe:
+    ascii_mode: true
+  app_options/devenv.exe:
+    ascii_mode: true
+  app_options/sublime_text.exe:
+    # ascii_mode: true
+  app_options/explorer.exe:
+     ascii_mode: true
+  app_options/launchy.exe:
+    ascii_mode: true
+  app_options/acad.exe:
+    ascii_mode: true
+  app_options/winkawaks.exe:
+    ascii_mode: true
+  app_options/plantsvszombies:
+    ascii_mode: true
+  app_options/evoland.exe:
+    ascii_mode: true
+
+  # 自定義配色方案...
+  "style/color_scheme": lin
+  "preset_color_schemes/lin":
+    back_color: 0x333333
+    border_color: 0x333333
+    text_color: 0xdaaa43
+    hilited_text_color: 0xdaaa43
+    hilited_back_color: 0x333333
+    hilited_candidate_text_color: 0xbbbbbb
+    hilited_candidate_back_color: 0x333333
+    candidate_text_color: 0xffffff
+    comment_text_color: 0x333333
