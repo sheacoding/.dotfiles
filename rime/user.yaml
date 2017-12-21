@@ -4,7 +4,7 @@ var:
   previously_selected_schema: double_pinyin_flypy
   schema_access_time:
     double_pinyin: 1456638347
-    double_pinyin_flypy: 1513774559
-    emoji: 1513774553
+    double_pinyin_flypy: 1513853366
+    emoji: 1513853331
     luna_pinyin: 1456638788
     wubi86: 1456638778
