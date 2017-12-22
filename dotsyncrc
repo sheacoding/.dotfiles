@@ -68,6 +68,7 @@ rime:.config/fcitx/rime
 #zsh/zprofile
 zsh/oh-my-zsh
 zsh/zshrc
+VScode/settings.json:.config/Code/User/settings.json
 [endfiles]
 
 ## hostname                     type=masterhost, ANY or NONE    files=dotfile:tolink,another:tolink
